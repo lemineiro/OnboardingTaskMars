@@ -5302,11 +5302,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Leticia\\onboarding.specflow\\MarsOnboarding24\\MarsOnboarding24\\MarsOnboarding24.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Leticia\\onboarding.specflow\\MarsOnboarding24\\MarsOnboarding24.csproj",
       "projectName": "MarsOnboarding24",
-      "projectPath": "C:\\Users\\User\\Desktop\\Leticia\\onboarding.specflow\\MarsOnboarding24\\MarsOnboarding24\\MarsOnboarding24.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Leticia\\onboarding.specflow\\MarsOnboarding24\\MarsOnboarding24.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Leticia\\onboarding.specflow\\MarsOnboarding24\\MarsOnboarding24\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Leticia\\onboarding.specflow\\MarsOnboarding24\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
