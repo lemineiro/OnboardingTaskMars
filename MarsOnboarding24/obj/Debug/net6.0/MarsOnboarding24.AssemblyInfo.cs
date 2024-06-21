@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MarsOnboarding24")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7aab0090e1327d327c2d945e037281a6fcdc86e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0181bbfad617a2c5d80b0ab9702bd671e21b33b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("MarsOnboarding24")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MarsOnboarding24")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

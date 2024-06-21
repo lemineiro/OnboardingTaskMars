@@ -1,7 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Leticia\\onboarding.specflow\\MarsOnboarding24\\MarsOnboarding24\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Leticia\\onboarding.specflow\\MarsOnboarding24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFACC6ED-5AD9-43A8-B3BA-97906ED7DC26}|MarsOnboarding24.csproj|c:\\users\\user\\desktop\\leticia\\onboarding.specflow\\marsonboarding24\\pages\\skillpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFACC6ED-5AD9-43A8-B3BA-97906ED7DC26}|MarsOnboarding24.csproj|solutionrelative:pages\\skillpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFACC6ED-5AD9-43A8-B3BA-97906ED7DC26}|MarsOnboarding24.csproj|c:\\users\\user\\desktop\\leticia\\onboarding.specflow\\marsonboarding24\\pages\\languagepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFACC6ED-5AD9-43A8-B3BA-97906ED7DC26}|MarsOnboarding24.csproj|solutionrelative:pages\\languagepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFACC6ED-5AD9-43A8-B3BA-97906ED7DC26}|MarsOnboarding24.csproj|c:\\users\\user\\desktop\\leticia\\onboarding.specflow\\marsonboarding24\\stepdefinitions\\languagestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFACC6ED-5AD9-43A8-B3BA-97906ED7DC26}|MarsOnboarding24.csproj|solutionrelative:stepdefinitions\\languagestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFACC6ED-5AD9-43A8-B3BA-97906ED7DC26}|MarsOnboarding24.csproj|c:\\users\\user\\desktop\\leticia\\onboarding.specflow\\marsonboarding24\\features\\language.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FFACC6ED-5AD9-43A8-B3BA-97906ED7DC26}|MarsOnboarding24.csproj|solutionrelative:features\\language.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFACC6ED-5AD9-43A8-B3BA-97906ED7DC26}|MarsOnboarding24.csproj|c:\\users\\user\\desktop\\leticia\\onboarding.specflow\\marsonboarding24\\stepdefinitions\\skillstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFACC6ED-5AD9-43A8-B3BA-97906ED7DC26}|MarsOnboarding24.csproj|solutionrelative:stepdefinitions\\skillstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFACC6ED-5AD9-43A8-B3BA-97906ED7DC26}|MarsOnboarding24.csproj|c:\\users\\user\\desktop\\leticia\\onboarding.specflow\\marsonboarding24\\features\\skill.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FFACC6ED-5AD9-43A8-B3BA-97906ED7DC26}|MarsOnboarding24.csproj|solutionrelative:features\\skill.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 287,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Language.feature",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Leticia\\onboarding.specflow\\MarsOnboarding24\\Features\\Language.feature",
+              "RelativeDocumentMoniker": "Features\\Language.feature",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Leticia\\onboarding.specflow\\MarsOnboarding24\\Features\\Language.feature",
+              "RelativeToolTip": "Features\\Language.feature",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABsAAAAQAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKnSURBVDhPjVJNaxNRFD0zSWaS9DNNOv3Uak1rlYpSBZGKtGBbRKsLPzeCuBJcKHTjwoUIRRBUEBfqDxDUnRShCLZKQKqVNn5UKY1tNaZlmrbEJDPJZKbjfa/RdKP0vHk83pt7zjvv3iuA0Hfvii15TSzq87Bp/A8CDb\u002BnGobmxK2LNyBcvttnq44QevbsQnWJwiJ4GLgQ36wBndE3n1QxODoOxWyHcO7Ocbu3sxYtgWYYVvYvRXb6aJ\u002BEKLjgdvmRykbzfwDJIeNrfBLPhmIQVT2CYtkN3UxjxbZgrphE8qBROYVAcRt8Rdux0X\u002BYzmQSd/IYFss4jCtatslvZW9ziB7Ulu\u002BHw\u002BFGPDkOUXTBWslhMfUBpZ5N2FpzltwEeCzjWHYO4tp3ys5SVBTtwMaKbsRTYajJ91jWvmAhOYYiuR5JfQY5K1VINC0kUIBmqJhSH\u002BP70iBZNWBaaXKQoWfpSGZm\u002BOpxVeajV0ECeTWC7CxHUDmJDb4uCIITXqmGT3ZumL/gL94Jn7eFKAUOd8C2zBa7YSk9gdnF51BK2ng\u002B3K4KNFWdJicGPsce4MfyCxLPP5tWsUxSkDUNrsLsziVCtE/w0uUsDelsjObc6hVUAQZmIEOcMqkSwpn\u002BE/bm1jg6t\u002ByF1\u002Bnl\u002BXWIDkiSG2bOol7QuTu6i5OZkGZqGIqM4NsnqsjV\u002B9fsN9MvUVlPJZEyaGzworuuC2mq9UhsDJGfCeqBQq6ZWEa3oUYltDceXK3hq7ev7dmFKJ6MPsTRjhq4qQ\u002BGJyeQiFahp/UYwlMTWFiO8yZiZW9uCGLftt3o7TjyJxvA\u002Bf4Ldk4ZQVNdAO/ClAM9iKfXHxWa5B/g3gaGB\u002BzpxEcIoo1QKIsmb8e6yAxcIKVpyGYsRMJlOBA8hNuXbq6LDAC/AbVZHaMn6RQdAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-06-04T21:23:11.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LanguageStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Leticia\\onboarding.specflow\\MarsOnboarding24\\StepDefinitions\\LanguageStepDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\LanguageStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Leticia\\onboarding.specflow\\MarsOnboarding24\\StepDefinitions\\LanguageStepDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\LanguageStepDefinitions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T21:23:31.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LanguagePage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Leticia\\onboarding.specflow\\MarsOnboarding24\\Pages\\LanguagePage.cs",
+              "RelativeDocumentMoniker": "Pages\\LanguagePage.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Leticia\\onboarding.specflow\\MarsOnboarding24\\Pages\\LanguagePage.cs",
+              "RelativeToolTip": "Pages\\LanguagePage.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAYwIYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T21:23:36.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SkillPage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Leticia\\onboarding.specflow\\MarsOnboarding24\\Pages\\SkillPage.cs",
+              "RelativeDocumentMoniker": "Pages\\SkillPage.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Leticia\\onboarding.specflow\\MarsOnboarding24\\Pages\\SkillPage.cs",
+              "RelativeToolTip": "Pages\\SkillPage.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwHMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T06:38:06.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Skill.feature",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Leticia\\onboarding.specflow\\MarsOnboarding24\\Features\\Skill.feature",
+              "RelativeDocumentMoniker": "Features\\Skill.feature",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Leticia\\onboarding.specflow\\MarsOnboarding24\\Features\\Skill.feature",
+              "RelativeToolTip": "Features\\Skill.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAnAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKnSURBVDhPjVJNaxNRFD0zSWaS9DNNOv3Uak1rlYpSBZGKtGBbRKsLPzeCuBJcKHTjwoUIRRBUEBfqDxDUnRShCLZKQKqVNn5UKY1tNaZlmrbEJDPJZKbjfa/RdKP0vHk83pt7zjvv3iuA0Hfvii15TSzq87Bp/A8CDb\u002BnGobmxK2LNyBcvttnq44QevbsQnWJwiJ4GLgQ36wBndE3n1QxODoOxWyHcO7Ocbu3sxYtgWYYVvYvRXb6aJ\u002BEKLjgdvmRykbzfwDJIeNrfBLPhmIQVT2CYtkN3UxjxbZgrphE8qBROYVAcRt8Rdux0X\u002BYzmQSd/IYFss4jCtatslvZW9ziB7Ulu\u002BHw\u002BFGPDkOUXTBWslhMfUBpZ5N2FpzltwEeCzjWHYO4tp3ys5SVBTtwMaKbsRTYajJ91jWvmAhOYYiuR5JfQY5K1VINC0kUIBmqJhSH\u002BP70iBZNWBaaXKQoWfpSGZm\u002BOpxVeajV0ECeTWC7CxHUDmJDb4uCIITXqmGT3ZumL/gL94Jn7eFKAUOd8C2zBa7YSk9gdnF51BK2ng\u002B3K4KNFWdJicGPsce4MfyCxLPP5tWsUxSkDUNrsLsziVCtE/w0uUsDelsjObc6hVUAQZmIEOcMqkSwpn\u002BE/bm1jg6t\u002ByF1\u002Bnl\u002BXWIDkiSG2bOol7QuTu6i5OZkGZqGIqM4NsnqsjV\u002B9fsN9MvUVlPJZEyaGzworuuC2mq9UhsDJGfCeqBQq6ZWEa3oUYltDceXK3hq7ev7dmFKJ6MPsTRjhq4qQ\u002BGJyeQiFahp/UYwlMTWFiO8yZiZW9uCGLftt3o7TjyJxvA\u002Bf4Ldk4ZQVNdAO/ClAM9iKfXHxWa5B/g3gaGB\u002BzpxEcIoo1QKIsmb8e6yAxcIKVpyGYsRMJlOBA8hNuXbq6LDAC/AbVZHaMn6RQdAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-06-18T06:34:20.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SkillStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Leticia\\onboarding.specflow\\MarsOnboarding24\\StepDefinitions\\SkillStepDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\SkillStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Leticia\\onboarding.specflow\\MarsOnboarding24\\StepDefinitions\\SkillStepDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\SkillStepDefinitions.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAUwIAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T06:35:40.762Z",
+              "EditorCaption": ""
             }
           ]
         }
